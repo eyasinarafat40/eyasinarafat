@@ -273,7 +273,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		brute()	
-	elif peak =="4":
+	elif peak =="1234":
 		os.system('clear')
 		print logo                  
 		try:
